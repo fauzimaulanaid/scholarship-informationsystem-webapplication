@@ -1,0 +1,84 @@
+ /* BUTTON PELANGI */
+ .buttonz{
+    display:inline-flex;
+    border-radius:4px;
+    cursor:pointer;
+    font-size:13px;
+    font-weight:bold;
+    text-transform:uppercase;
+    color:#FFF!important;
+    background-size:cover;
+    padding:3px 12px;
+    text-shadow:none;
+    transition:all 1s;
+    }
+
+.buttonz:hover, .buttonz:hover, .buttonz.link:hover {
+    box-shadow: 0px 0px 18px 18px rgba(80, 80, 80, 0);
+    } 
+
+body{ 
+    background-color: #fed330;
+    margin:0px; 
+    padding:0px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    }
+
+
+h3 {font-family:Arial, Helvetica, sans-serif; font-size:20px; text-align:center; color:#fff;}
+.content {
+    margin:auto; 
+    width:400px; 
+    border: solid 3px #9A59B5; 
+    background:#9A59B5; 
+    margin-top:5%;
+    -webkit-box-shadow: 1px 1px 9px 0px rgba(42, 50, 50, 0.19);
+    -moz-box-shadow: 1px 1px 9px 0px rgba(42, 50, 50, 0.19);
+    box-shadow: 1px 1px 9px 0px rgba(42, 50, 50, 0.19);}
+
+.content {
+    color:#333; 
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:14px; 
+    padding:20px;
+    }
+
+.content input {
+    width:96%; 
+    padding:5px; 
+    background:#ffff; 
+    font-family:Arial, Helvetica, sans-serif; 
+    border:solid 1px #8D44AD; 
+    margin-bottom:10px;
+    }
+
+.content input:hover{ border:solid 1px #cccccc;}
+
+.button {background:#0000FF; color:#ffffff; padding:10px 20px 10px 20px; border:0px;border-radius:5px;}
+
+.content label {color:#ffffff;}
+
+p{
+    color: #ffffff;
+}
+
+.alert{
+	background: #e44e4e;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	border:1px solid #b32929;
+}
+
+hr {border-top:solid 1px #eee; margin-top:20px; margin-bottom:10px;} */
+
+    #passwordDescription { color:#fff;}
+    #passwordStrength{height:10px;display:block;float:left;}
+    .strength0{width:250px;background:#fff;}
+    .strength1{width:50px;background:#ff0000;}
+    .strength2{width:100px; background:#ff5f5f;}
+    .strength3{width:150px;background:#56e500;}
+    .strength4{background:#4dcd00;width:200px;}
+    .strength5{background:#399800;width:250px;}

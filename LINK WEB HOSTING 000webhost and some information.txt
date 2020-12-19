@@ -1,0 +1,19 @@
+Hello Sir,
+
+I have uploaded the project into 000webhost, below is the link:
+http://fauzi-scholarship.000webhostapp.com/
+
+You can create an account in the Register Page for login, or you can use this account below for login in my website:
+
+-Role Administrator (CRUD)
+username : admin
+password : admin123
+
+-Role Viewer (R)
+username : viewer
+password : viewer123
+
+The Data Visualization  (chart) using chartjs is in the Participant Data Page.
+
+Thank You
+Have a nice day

@@ -1,0 +1,7 @@
+Hello
+
+create.sql is for creating the database in mysql XAMPP
+and
+scholarship.sql is the result of export database from phpmyadmin in my laptop. This is for make a database in the 000webhost
+
+Thank You
